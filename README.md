@@ -13,7 +13,7 @@
 
 <img src="./quotes-ticker.svg" width="100%"/>
 
-<sub>A real animated SVG ticker (not the old &lt;marquee&gt; tag) — it scrolls smoothly and seamlessly on GitHub.</sub>
+
 
 </div>
 
