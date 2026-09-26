@@ -11,13 +11,9 @@
 
 <div align="center">
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-&nbsp;&nbsp;&nbsp;🦇&nbsp; "It's not who I am underneath, but what I do that defines me." — Batman &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-🦾&nbsp; "I am Iron Man." — Tony Stark &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-🦇&nbsp; "Why do we fall? So we can learn to pick ourselves up." — Batman &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-🦾&nbsp; "Sometimes you gotta run before you can walk." — Tony Stark &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-🦾&nbsp; "Part of the journey is the end." — Tony Stark &nbsp;&nbsp;&nbsp;
-</marquee>
+<img src="./quotes-ticker.svg" width="100%"/>
+
+<sub>A real animated SVG ticker (not the old &lt;marquee&gt; tag) — it scrolls smoothly and seamlessly on GitHub.</sub>
 
 </div>
 
@@ -80,28 +76,48 @@ Multi-provider LLM routing with failover, local model serving with Ollama, and Q
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🦾 The Suit — Arsenal & Abilities
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🧠 The Mind — AI/ML**
+<br/>
+![LLMs](https://img.shields.io/badge/LLMs-FFC300?style=for-the-badge&logo=openai&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF4D4D?style=for-the-badge)
+![Agents](https://img.shields.io/badge/AI_Agents-FFC300?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-FF4D4D?style=for-the-badge&logo=ollama&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA_Fine--tuning-FFC300?style=for-the-badge)
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ The Build — Engineering**
+<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-FF4D4D?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FFC300?style=for-the-badge&logo=angular&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-FF4D4D?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=for-the-badge&logo=typescript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF4D4D?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**🛰️ The Base — Infrastructure**
+<br/>
+![Azure](https://img.shields.io/badge/Azure-FFC300?style=for-the-badge&logo=microsoftazure&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF4D4D?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFC300?style=for-the-badge&logo=docker&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FF4D4D?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFC300?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,spring,ts,angular,nextjs,postgres,azure,aws,docker,git,linux&theme=dark" />
-
-</div>
-
-<div align="center">
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square)
-![QLoRA](https://img.shields.io/badge/QLoRA%20Fine--tuning-00A67E?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
+<sub>🔋 Suit status: <b>fully charged</b> — always shipping, always iterating.</sub>
 </div>
 
 <br/>
