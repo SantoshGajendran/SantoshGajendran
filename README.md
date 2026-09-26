@@ -7,6 +7,18 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Developer+%E2%80%A2+5%2B+years;I+build+AI+Agents+that+remember%2C+reason%2C+and+act;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Agent+Memory;Spring+Boot+%C2%B7+Angular+%C2%B7+Next.js+%C2%B7+Python%2FAI+%C2%B7+Azure%2FAWS&font=Fira%20Code&center=true&width=800&height=45&color=FFD700&vCenter=true&size=22&pause=1200&duration=2800"/>
 
+## 🦇🦾 Words to Build By
+
+<div align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+&nbsp;&nbsp;&nbsp;🦇&nbsp; "It's not who I am underneath, but what I do that defines me." — Batman &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🦾&nbsp; "I am Iron Man." — Tony Stark &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🦇&nbsp; "Why do we fall? So we can learn to pick ourselves up." — Batman &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🦾&nbsp; "Sometimes you gotta run before you can walk." — Tony Stark &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🦾&nbsp; "Part of the journey is the end." — Tony Stark &nbsp;&nbsp;&nbsp;
+</marquee>
+
 </div>
 
 <br/>
