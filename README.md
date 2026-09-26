@@ -7,13 +7,17 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Developer+%E2%80%A2+5%2B+years;I+build+AI+Agents+that+remember%2C+reason%2C+and+act;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Agent+Memory;Spring+Boot+%C2%B7+Angular+%C2%B7+Next.js+%C2%B7+Python%2FAI+%C2%B7+Azure%2FAWS&font=Fira%20Code&center=true&width=800&height=45&color=FFD700&vCenter=true&size=22&pause=1200&duration=2800"/>
 
+</div>
+
+<br/>
+
 ## 🦇🦾 Words to Build By
 
 <div align="center">
 
 <img src="./quotes-ticker.svg" width="100%"/>
 
-
+<sub>A real animated SVG ticker (not the old &lt;marquee&gt; tag) — it scrolls smoothly and seamlessly on GitHub.</sub>
 
 </div>
 
@@ -124,26 +128,38 @@ Multi-provider LLM routing with failover, local model serving with Ollama, and Q
 
 ## 📌 Featured Work
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="25%" align="center">
 
-<!--
-  Pinned repos render live from GitHub — no manual upkeep.
-  Replace the repo names below with the ones you want to feature.
--->
-<a href="https://github.com/SantoshGajendran/field-service-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantoshGajendran&repo=field-service-app&theme=dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/SantoshGajendran/project-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantoshGajendran&repo=project-tracker&theme=dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/SantoshGajendran/DropDash">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantoshGajendran&repo=DropDash&theme=dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/SantoshGajendran/ArcPrompts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantoshGajendran&repo=ArcPrompts&theme=dark&hide_border=true&bg_color=0d1117" />
-</a>
+**[field-service-app](https://github.com/SantoshGajendran/field-service-app)**
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=flat-square&logo=typescript&logoColor=black)
 
-</div>
+</td>
+<td width="25%" align="center">
+
+**[project-tracker](https://github.com/SantoshGajendran/project-tracker)**
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=flat-square&logo=typescript&logoColor=black)
+
+</td>
+<td width="25%" align="center">
+
+**[DropDash](https://github.com/SantoshGajendran/DropDash)**
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=flat-square&logo=typescript&logoColor=black)
+
+</td>
+<td width="25%" align="center">
+
+**[ArcPrompts](https://github.com/SantoshGajendran/ArcPrompts)**
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=flat-square&logo=typescript&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
