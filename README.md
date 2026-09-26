@@ -130,32 +130,42 @@ Multi-provider LLM routing with failover, local model serving with Ollama, and Q
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-**[field-service-app](https://github.com/SantoshGajendran/field-service-app)**
+<a href="https://github.com/SantoshGajendran/field-service-app">
+  <img src="https://opengraph.githubassets.com/1/SantoshGajendran/field-service-app" width="100%"/>
+</a>
 <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=flat-square&logo=typescript&logoColor=black)
+<b><a href="https://github.com/SantoshGajendran/field-service-app">field-service-app</a></b>
 
 </td>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-**[project-tracker](https://github.com/SantoshGajendran/project-tracker)**
+<a href="https://github.com/SantoshGajendran/project-tracker">
+  <img src="https://opengraph.githubassets.com/1/SantoshGajendran/project-tracker" width="100%"/>
+</a>
 <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=flat-square&logo=typescript&logoColor=black)
+<b><a href="https://github.com/SantoshGajendran/project-tracker">project-tracker</a></b>
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="50%" align="center">
 
-**[DropDash](https://github.com/SantoshGajendran/DropDash)**
+<a href="https://github.com/SantoshGajendran/DropDash">
+  <img src="https://opengraph.githubassets.com/1/SantoshGajendran/DropDash" width="100%"/>
+</a>
 <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=flat-square&logo=typescript&logoColor=black)
+<b><a href="https://github.com/SantoshGajendran/DropDash">DropDash</a></b>
 
 </td>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-**[ArcPrompts](https://github.com/SantoshGajendran/ArcPrompts)**
+<a href="https://github.com/SantoshGajendran/ArcPrompts">
+  <img src="https://opengraph.githubassets.com/1/SantoshGajendran/ArcPrompts" width="100%"/>
+</a>
 <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-FFC300?style=flat-square&logo=typescript&logoColor=black)
+<b><a href="https://github.com/SantoshGajendran/ArcPrompts">ArcPrompts</a></b>
 
 </td>
 </tr>
