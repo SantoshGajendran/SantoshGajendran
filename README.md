@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santosh%20Gajendran&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Agents%20%7C%20RAG%20Pipelines%20%7C%20LLM%20Memory%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,25:7A0C0C,60:C41E1E,100:FFB800&height=220&section=header&text=Santosh%20Gajendran&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Agents%20%7C%20RAG%20Pipelines%20%7C%20LLM%20Memory%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://linkedin.com/in/santosh-g-03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/SantoshGajendran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Developer+%E2%80%A2+5%2B+years;I+build+AI+Agents+that+remember%2C+reason%2C+and+act;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Agent+Memory;Spring+Boot+%C2%B7+Angular+%C2%B7+Next.js+%C2%B7+Python%2FAI+%C2%B7+Azure%2FAWS&font=Fira%20Code&center=true&width=800&height=45&color=A78BFA&vCenter=true&size=22&pause=1200&duration=2800"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Developer+%E2%80%A2+5%2B+years;I+build+AI+Agents+that+remember%2C+reason%2C+and+act;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Agent+Memory;Spring+Boot+%C2%B7+Angular+%C2%B7+Next.js+%C2%B7+Python%2FAI+%C2%B7+Azure%2FAWS&font=Fira%20Code&center=true&width=800&height=45&color=FFD700&vCenter=true&size=22&pause=1200&duration=2800"/>
 
 </div>
 
@@ -123,12 +123,12 @@ Multi-provider LLM routing with failover, local model serving with Ollama, and Q
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SantoshGajendran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantoshGajendran&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SantoshGajendran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantoshGajendran&theme=dark&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshGajendran&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshGajendran&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshGajendran&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshGajendran&theme=react-dark&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff" width="95%"/>
 
 </div>
 
@@ -155,6 +155,6 @@ Multi-provider LLM routing with failover, local model serving with Ollama, and Q
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,40:C41E1E,75:7A0C0C,100:1A0000&height=100&section=footer" width="100%"/>
 
 </div>
